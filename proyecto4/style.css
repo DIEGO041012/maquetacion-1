@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+background-color: rgb(154, 160, 214);
+}
+.imagenes 
+{
+-ms-flex-item-align: center;
+}
+header  {
+   
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    color: white;
+  
+}
+nav {
+    background-image: url(/img/fondo.jpg);
+}
+
+button {
+    width: 90px;
+
+}
+table {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.fondo {
+    width: 100%;
+    height: 100px;
+}
+
+
+.tdRelleno {
+    width: 800px;
+}
+
+.tdButton {
+    width: 30%;
+    padding-left: 20%  ;
+
+}
+
+.tdImg {
+
+    width: 30%;
+    padding-left: 70px;
+}
+
+.menu {
+    display: flex;
+    margin-top: 5px;
+    align-items: flex-start;
+}
+
+.texto {
+    padding-top: 20px;
+    padding-left: 30px;
+    margin: 10px;
+}
